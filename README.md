@@ -1,2 +1,2 @@
 # git-deep-dive
-Repo for Git
+This repository is learn Git in details.
